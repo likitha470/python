@@ -14,3 +14,4 @@ b=None
 old=False
 print(type(old))
 print(type(b))
+print(type(age))
