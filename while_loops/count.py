@@ -1,7 +1,8 @@
 # loop are used to repeat insrtruction
 # while loop
-count=1#iterator
-while count<6:
+
+count=1 #iterator
+while count<=6:
     
         count+=1
         print("count",count)
