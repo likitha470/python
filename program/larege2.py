@@ -27,12 +27,12 @@ list=[1,2,7,45,89,3,56]
 # print(list2[len(list2)-2])
 
 
-for i in list:
-    for j in list:
-        if(i<i-1):
-            temp=list[j]
-            list[]=list[i+1]
-            list[i+1]=temp
-print(list)
+# for i in list:
+#     for j in list:
+#         if(i<i-1):
+#             temp=list[j]
+#             list[]=list[i+1]
+#             list[i+1]=temp
+# print(list)
 
 
