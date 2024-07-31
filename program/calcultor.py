@@ -1,6 +1,6 @@
-x="*"
-a=10
-b=2
+x=input("enter the symbol:")
+a=int(input("enter eny number:"))
+b=int(input("enter eny number:"))
 if x=="+":
     print(a+b)
     
