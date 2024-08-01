@@ -1,5 +1,7 @@
 #abstraction----->hiding implimentation of a class and only showing the essential features to the user
 #encapusulation------>wrapping data and function to a single unit(object)
+#inheritance
+#polymorphism
 class Car:
     def __init__(self):
         self.acc=False
