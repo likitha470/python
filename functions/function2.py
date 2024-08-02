@@ -5,3 +5,5 @@ def cal_avg(a,b,c):
 
 cal_avg(4,6,8)
 cal_avg(7,3,9)
+
+help(cal_avg)

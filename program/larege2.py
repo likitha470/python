@@ -9,7 +9,7 @@
 # print("max",max)
 import array as arr
 
-list=[1,2,7,45,89,3,56]
+# list=[1,2,7,45,89,3,56]
 # largest=-1
 # temp=-1
 # for i in list:
