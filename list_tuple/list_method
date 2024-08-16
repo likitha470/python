@@ -14,3 +14,5 @@ list.remove("4")#remove the element##
 print(list)
 list.pop(3)#remove the index
 print(list)
+list.clear()
+print(list)
